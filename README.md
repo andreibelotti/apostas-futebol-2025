@@ -19,11 +19,6 @@ pip install -r requirements.txt
 streamlit run streamlit_app.py
 ```
 
-## Publicar no Streamlit Cloud
-
-1. Crie uma conta gratuita em [streamlit.io/cloud](https://streamlit.io/cloud)
-2. Conecte seu GitHub e selecione este repositório
-3. Pronto! O app estará online
 
 ---
 ⚽ Projeto feito com carinho para curtir a temporada com os amigos!
